@@ -1,0 +1,28 @@
+* {padding:0;margin:0;}
+
+.container {
+	font-family: tahoma;
+	width: 80%;
+    margin: 30px auto;
+	font-size: 18px;
+	height: auto;
+	text-align: justify;
+}
+
+img{
+   max-width: 100%;
+   height:auto;
+   margin-bottom: 10px;
+}
+
+a {
+	text-decoration:none;
+	color: #000;
+	background-color: #FF9900;
+	border: solid 3px #fff;
+	border-radius: 5px;
+	padding: 10px;
+	opacity: 0.8;
+	font-size: 20px;
+	font-family: tahoma;
+}
