@@ -15,14 +15,9 @@ img{
    margin-bottom: 10px;
 }
 
-a {
-	text-decoration:none;
-	color: #000;
-	background-color: #FF9900;
-	border: solid 3px #fff;
-	border-radius: 5px;
-	padding: 10px;
-	opacity: 0.8;
-	font-size: 20px;
-	font-family: tahoma;
+.break {
+	padding-bottom: 10px;
+}
+.colorText {
+	color: #5b0459;
 }
