@@ -17,7 +17,5 @@ img{
 
 .break {
 	padding-bottom: 10px;
-}
-.colorText {
-	color: #5b0459;
+	font-weight: bold;
 }
